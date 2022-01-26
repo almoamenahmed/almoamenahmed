@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/ajalmoam" target="blank"><img src="https://img.shields.io/twitter/follow/ajalmoam?logo=twitter&style=for-the-badge" alt="ajalmoam" /></a> </p>
 
-- 🔭 I’m currently working on **a website presents many useful utilities.**
+- 🔭 I’m currently working on **a website that presents many useful utilities.**
 
 - 🌱 I’m currently learning **Javascript and Python.**
 
