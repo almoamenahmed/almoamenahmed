@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ahmed Almoamen</h1>
-<h3 align="center">I am a developer attending the University of Michigan-Dearborn</h3>
-(https://i.pinimg.com/originals/57/b5/2a/57b52ac6b0f05d9bc0cb9078a0ad50ac.gif)
+### Hi there 👋, my name is Ahmed Almoamen
+#### I am a developer attending the University of Michigan-Dearborn
+![I am a developer attending the University of Michigan-Dearborn](https://i.pinimg.com/originals/57/b5/2a/57b52ac6b0f05d9bc0cb9078a0ad50ac.gif)
 
 <p align="left"> <a href="https://twitter.com/ajalmoam" target="blank"><img src="https://img.shields.io/twitter/follow/ajalmoam?logo=twitter&style=for-the-badge" alt="ajalmoam" /></a> </p>
 
