@@ -9,7 +9,7 @@ Skills: C++/C/HTML/CSS/JS
 - 🔭 I’m currently working on a website presents many useful utilities. 
 - 🌱 I’m currently learning Javascript and Python. 
 - 👯 I’m looking to collaborate on any projects! (Especially web-development). 
-- 🤔 I’m looking for help with Opportunities to help hone my coding skills. 
+- 🤔 I’m looking for help with opportunities to help hone my coding skills. 
 - 📫 How to reach me: ajalmoam@umich.edu 
 
 
