@@ -10,14 +10,14 @@
 
 - 👯 I’m looking to collaborate on **any projects! (Especially web-development).**
 
-- 🤝 I’m looking for help with **opportunities to help hone my coding skills.**
+- 🤝 I’m looking for **opportunities to help hone my coding skills.**
 
 - 📫 How to reach me **ajalmoam@umich.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ajalmoam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajalmoam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/almoamenahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/almoamenahmed" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/almoamenahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/almoamenahmed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
