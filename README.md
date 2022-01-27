@@ -32,3 +32,5 @@
 <br>
  <a href="https://github.com/almoamenahmed/Doubly-Sublists/">Doubly Sublists</a> <img src= "https://github.com/almoamenahmed/almoamenahmed/blob/main/DoublySublists.gif"/>
 <br>
+ <a href="https://github.com/almoamenahmed/Processor-Efficiency/">Processor Efficiency</a> <img src= "https://github.com/almoamenahmed/almoamenahmed/blob/main/ProcessorEfficiency.gif"/>
+<br>
