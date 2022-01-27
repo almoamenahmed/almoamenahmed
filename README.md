@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for **opportunities to help hone my coding skills.**
 
-- 📫 How to reach me **ajalmoam@umich.edu**
+- 📫 How to reach me: **ajalmoam@umich.edu**
 <hr>
 
 <h3 align="left">Connect with me:</h3>
