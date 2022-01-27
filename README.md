@@ -34,3 +34,5 @@
 <br>
  <a href="https://github.com/almoamenahmed/Processor-Efficiency/">Processor Efficiency</a> <img src= "https://github.com/almoamenahmed/almoamenahmed/blob/main/ProcessorEfficiency.gif"/>
 <br>
+ <a href="https://github.com/almoamenahmed/Balance-Manager/">Balance Manager</a> <img src= "https://github.com/almoamenahmed/almoamenahmed/blob/main/BalanceManager.gif"/>
+<br>
