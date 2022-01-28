@@ -26,7 +26,7 @@
 <h3 align="left"> Project Previews:</h3>
  <a href="https://mozyn.github.io/B-SAFE-Password-Manager/">Password Manager</a> <img src= "https://github.com/almoamenahmed/almoamenahmed/blob/main/bsafe.gif"/>
  <br>
- <a href="https://github.com/almoamenahmed/String-Mods/">String Modifier</a> <img src= "https://github.com/almoamenahmed/almoamenahmed/blob/main/StringMods.gif"/>
+ <a href="https://github.com/almoamenahmed/String-Mods/">String Manipulator</a> <img src= "https://github.com/almoamenahmed/almoamenahmed/blob/main/StringMods.gif"/>
 <br>
  <a href="https://github.com/almoamenahmed/Reservation-System/">Reservation System</a> <img src= "https://github.com/almoamenahmed/almoamenahmed/blob/main/SeatReservations.gif"/>
 <br>
