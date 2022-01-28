@@ -24,15 +24,15 @@
 <hr>
 
 <h3 align="left"> Project Previews:</h3>
- <a href="https://mozyn.github.io/B-SAFE-Password-Manager/">Password Manager</a> <img src= "https://github.com/almoamenahmed/almoamenahmed/blob/main/bsafe.gif"/>
+ <a href="https://mozyn.github.io/B-SAFE-Password-Manager/">Password Manager & Strength Tester</a> <img src= "https://github.com/almoamenahmed/almoamenahmed/blob/main/bsafe.gif"/>
  <br>
- <a href="https://github.com/almoamenahmed/String-Mods/">String Manipulator</a> <img src= "https://github.com/almoamenahmed/almoamenahmed/blob/main/StringMods.gif"/>
+ <a href="https://github.com/almoamenahmed/String-Mods/">String Manipulation Demo</a> <img src= "https://github.com/almoamenahmed/almoamenahmed/blob/main/StringMods.gif"/>
 <br>
- <a href="https://github.com/almoamenahmed/Reservation-System/">Reservation System</a> <img src= "https://github.com/almoamenahmed/almoamenahmed/blob/main/SeatReservations.gif"/>
+ <a href="https://github.com/almoamenahmed/Reservation-System/">Airplane Seat Reservation and Management System</a> <img src= "https://github.com/almoamenahmed/almoamenahmed/blob/main/SeatReservations.gif"/>
 <br>
- <a href="https://github.com/almoamenahmed/Doubly-Sublists/">Doubly Sublists</a> <img src= "https://github.com/almoamenahmed/almoamenahmed/blob/main/DoublySublists.gif"/>
+ <a href="https://github.com/almoamenahmed/Doubly-Sublists/">Doubly Sublists Data Structure Demo</a> <img src= "https://github.com/almoamenahmed/almoamenahmed/blob/main/DoublySublists.gif"/>
 <br>
- <a href="https://github.com/almoamenahmed/Processor-Efficiency/">Processor Efficiency</a> <img src= "https://github.com/almoamenahmed/almoamenahmed/blob/main/ProcessorEfficiency.gif"/>
+ <a href="https://github.com/almoamenahmed/Processor-Efficiency/">CPU Thread Efficiency Simulation </a> <img src= "https://github.com/almoamenahmed/almoamenahmed/blob/main/ProcessorEfficiency.gif"/>
 <br>
- <a href="https://github.com/almoamenahmed/Balance-Manager/">Balance Manager</a> <img src= "https://github.com/almoamenahmed/almoamenahmed/blob/main/BalanceManager.gif"/>
+ <a href="https://github.com/almoamenahmed/Balance-Manager/">Financial Account Manager</a> <img src= "https://github.com/almoamenahmed/almoamenahmed/blob/main/BalanceManager.gif"/>
 <br>
