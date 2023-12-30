@@ -28,11 +28,42 @@ If you believe that my skills and passion for software development align with th
 
 🔗 LinkedIn: [![Follow @ajalmoam](https://img.shields.io/badge/LinkedIn-Follow%20%40ajalmoam-blue)](https://www.linkedin.com/in/ajalmoam)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" alt="python" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/java/java_intro.asp" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/396/878/png-clipart-java-development-kit-programmer-java-runtime-environment-programming-language-java-orange-logo.png" alt="java" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://www.lshnk.me/img/SQLite.png" alt="sqlite" width="80" height="40"/> </a></p>
+## Skills
+
+### Programming Languages
+- C/C++
+- JavaScript
+- Python
+- Java
+- Kotlin
+- PHP
+- Assembly Language
+
+### Web Development
+- HTML/CSS
+- Node.js
+- React Native
+- MongoDB
+- SQLite
+- TCP Servers
+- PHP
+
+### Tools & Environments
+- Microsoft Office
+- Windows 10/11
+- Linux
+- VS Code
+- Git
+- Android Studio
+- Expo CLI
+- AWS Cloud Services
+
+### Software Engineering Practices
+- Agile Development
+- Data Structures
+- Debugging
+- Unit Testing
+- Software Documentation
 <hr>
 
 <h3 align="left"> Project Previews:</h3>
