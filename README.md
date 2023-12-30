@@ -1,23 +1,32 @@
-### Hi there 👋, my name is Ahmed Almoamen
-#### I am a developer attending the University of Michigan-Dearborn
-![I am a developer attending the University of Michigan-Dearborn](https://i.pinimg.com/originals/57/b5/2a/57b52ac6b0f05d9bc0cb9078a0ad50ac.gif)
-<hr>
+# Hi there 👋, I'm Ahmed Almoamen
 
-- 🔭 I’m currently working on **a website that presents many useful utilities.**
+## About Me
 
-- 🌱 I’m currently learning **Javascript and Python.**
+I've recently graduated with a degree in Computer Science from the University of Michigan-Dearborn, and I'm actively seeking opportunities to apply my knowledge in software development, particularly in front-end and back-end development environments.
 
-- 👯 I’m looking to collaborate on **any projects! (Especially web-development).**
+During my time at the university, I've acquired a solid foundation in programming, data structures, and algorithms, as well as practical skills in various programming languages and frameworks.
 
-- 🤝 I’m looking for **opportunities to help hone my coding skills.**
+## What I'm Doing
 
-- 📫 How to reach me: **ajalmoam@umich.edu**
-<hr>
+🎓 Graduated and eager to join a team where I can contribute and further develop my skills as a software developer.
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/almoamenahmed" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/almoamenahmed" height="30" width="40" /> </a>
-<p align="left"> <a href="https://twitter.com/ajalmoam" target="blank"><img src="https://img.shields.io/twitter/follow/ajalmoam?logo=twitter&style=for-the-badge" alt="ajalmoam" /> </p>
-<hr>
+🌐 Enhancing my web development skills and building a portfolio that reflects my capabilities in creating efficient and user-friendly applications.
+
+## I'm Looking For
+
+🤝 Opportunities to collaborate on innovative projects, especially those focused on web development.
+
+💡 Roles that will challenge me and push the boundaries of my current skill set in software development.
+
+📚 An environment that values continuous learning and encourages the professional growth of its team members.
+
+## Let's Connect
+
+If you believe that my skills and passion for software development align with the needs of your team, or if you have a project that could benefit from my contributions, please don't hesitate to get in touch.
+
+📧 Email: [ajalmoam@umich.edu](mailto:ajalmoam@umich.edu)
+
+🔗 LinkedIn: [![Follow @ajalmoam](https://img.shields.io/badge/LinkedIn-Follow%20%40ajalmoam-blue)](https://www.linkedin.com/in/ajalmoam)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
