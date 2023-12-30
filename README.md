@@ -67,6 +67,14 @@ If you believe that my skills and passion for software development align with th
 <hr>
 
 <h3 align="left"> Project Previews:</h3>
+ <a href="https://github.com/almoamenahmed/SnakeGame">JavaScript Snake Game</a> <img src= "https://github.com/almoamenahmed/SnakeGame/blob/master/SnakeGame.gif"/>
+ <br>
+ <a href="https://github.com/almoamenahmed/DonutShop">Mock Donut Shop</a> <img src= "https://github.com/almoamenahmed/DonutShop/blob/master/Demo%20Video%20(1).gif"/>
+ <br>
+ <a href="https://github.com/almoamenahmed/WeatherApp">Kotlin Weather App</a> <img src= "https://github.com/almoamenahmed/WeatherApp/blob/main/WeatherApp/Detroit.png"/>
+ <br>
+ <a href="https://github.com/almoamenahmed/ChatApp">JavaFX TCP Chat App</a> <img src= "https://github.com/almoamenahmed/ChatApp/blob/main/Screenshot3.png"/>
+ <br>
  <a href="https://mozyn.github.io/B-SAFE-Password-Manager/">Password Manager & Strength Tester</a> <img src= "https://github.com/almoamenahmed/almoamenahmed/blob/main/bsafe.gif"/>
  <br>
  <a href="https://github.com/almoamenahmed/String-Mods/">String Manipulation Demo</a> <img src= "https://github.com/almoamenahmed/almoamenahmed/blob/main/StringMods.gif"/>
